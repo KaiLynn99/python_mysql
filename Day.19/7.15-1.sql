@@ -1,6 +1,6 @@
-select title 제목, length 시간
+select title 제목, length 시간 
 from film
-limit 10;
+limit 10;  
 
 select f2.제목, f2.시간
 from

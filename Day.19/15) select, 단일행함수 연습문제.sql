@@ -1,4 +1,4 @@
--- 1. film 테이블 - WHERE + LIKE + ORDER BY
+-- 1. film 테이블 - WHERE + LIKE + ORDER BY 
 -- 문제
 -- 영화 제목(title)이 'A'로 시작하는 영화를 조회하시오
 -- 영화 제목과 상영시간(length)을 출력하고, 상영시간이 긴 순으로 정렬하시오.

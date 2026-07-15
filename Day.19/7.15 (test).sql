@@ -3,7 +3,7 @@ CREATE TABLE product (
     name VARCHAR(30),
     price INT,
     discount INT
-);
+); 
 
 INSERT INTO product(name, price, discount)
 VALUES
