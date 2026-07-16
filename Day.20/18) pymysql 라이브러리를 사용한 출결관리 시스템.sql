@@ -5,7 +5,7 @@ CREATE TABLE student (
     id VARCHAR(20) PRIMARY KEY,
     name VARCHAR(30) NOT NULL,
     address VARCHAR(20)
-);
+); 
 
 -- attendance 테이블 
 CREATE TABLE attendance (

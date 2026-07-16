@@ -4,7 +4,7 @@ SELECT * from city WHERE country_id = 86;
 
 -- country_id = 86에 어떤 country가 있는지
 SELECT * from country WHERE country_id = 86;
-
+ 
 -- 
 
 -- city + country (country_id = 86)
